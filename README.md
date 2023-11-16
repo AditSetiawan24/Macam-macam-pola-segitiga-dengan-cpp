@@ -1,0 +1,1 @@
+# Macam-macam-pola-segitiga-dengan-c-
