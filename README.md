@@ -1,1 +1,1 @@
-# Macam-macam-pola-segitiga-dengan-c-
+# Macam-macam-pola-segitiga-dengan-cpp
